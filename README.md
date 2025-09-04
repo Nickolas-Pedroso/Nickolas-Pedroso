@@ -42,7 +42,6 @@
   <a href="https://developer.android.com/studio?hl=pt-br"><img align="center" alt="Nick_ANDROID" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
   <a href="https://nodejs.org/en"><img align="center" alt="Nick-NODE" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
   <a href="https://www.mongodb.com/pt-br"><img align="center" alt="Nick_MONGO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
-  <a href="https://react.dev/"><img align="center" alt="Nick_REACT" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
                     
 </div>
   
