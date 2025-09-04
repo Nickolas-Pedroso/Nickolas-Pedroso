@@ -54,7 +54,7 @@
      <a href="mailto:nickolaspedroso28@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
      <a href = "https://br.linkedin.com/in/nickolas-pedroso-32180218a"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
     <a href = "https://github.com/Nickolas-Pedroso"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
-    <a href = "https://www.tinkercad.com/users/jit7d9RbwsX"><img src=https://img.shields.io/badge/Tinkercad-3e3636?style=for-the-badge&logo=tinkercad&logoColor=snow></a>
+    <a href = "https://www.tinkercad.com/users/eJcg4zgTQSY?type=circuits"><img src=https://img.shields.io/badge/Tinkercad-3e3636?style=for-the-badge&logo=tinkercad&logoColor=snow></a>
   </div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
