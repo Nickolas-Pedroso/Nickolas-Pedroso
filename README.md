@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2C+Eu+sou+o+Nickolas)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=350&height=82&lines=-+%F0%9F%92%BB+Estudante+em+DSM+na+Fatec+de+Cotia;-+%F0%9F%93%96+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=350&height=82&lines=-+%F0%9F%92%BB+Estudante+em+Desenvolvimento+de+Sistemas+na+Fatec+de+Cotia;-+%F0%9F%93%96+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
   ##
 
 <div align="center">
