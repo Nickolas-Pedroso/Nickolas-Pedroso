@@ -17,9 +17,9 @@
 
 ##
 
-<p align="center">
-  <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Nickolas-Pedroso&bg_color=000000&color=C151C9&line=9370DB&point=78327D&area=true&hide_border=true" />
-</p>
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10" alt="Linguagens mais usadas" />
+</div>
 
 ##
 
