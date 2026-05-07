@@ -1,30 +1,4 @@
-# README GitHub — Data Analytics Style
-
-```md
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=32&duration=500&color=78327D&vCenter=true&repeat=false&width=350&height=35&lines=Olá%2C+eu+sou+o+Nickolas)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=26&duration=500&color=C151C9&vCenter=true&multiline=true&repeat=false&width=750&height=80&lines=💻\+Desenvolvimento\+de\+Sistemas\+%7C\+📊\+Data\+Analytics;🐍\+Python\+%7C\+SQL\+%7C\+BI\+%7C\+Automação)](https://git.io/typing-svg)
-
-<div align="center">
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&bg_color=000000&title_color=C151C9&text_color=9370DB&icon_color=78327D&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br"/>
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&bg_color=000000&title_color=C151C9&text_color=9370DB&border_color=620096&border_radius=15&locale=pt-br"/>
-
-</div>
-
-##
-
-### 👨‍💻 Sobre mim
-
-💡 Profissional de tecnologia com foco em Desenvolvimento de Sistemas, Dados, Business Intelligence e Automação.
-
-🎯 Atualmente desenvolvendo projetos envolvendo:
-- Desenvolvimento Full Stack
-- Python para análise de dados
-- SQL e modelagem de dados
-- Dashboards em Power BI
-- Automação de processos
 - Integração entre sistemas
 
 📌 O gráfico de linguagens mais utilizadas é atualizado automaticamente conforme novos projetos e repositórios são adicionados ao GitHub.
@@ -112,4 +86,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
-```
