@@ -19,11 +19,11 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&locale=pt-br)
+  <img src="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&locale=pt-br" alt="Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10&locale=pt-br)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10&locale=pt-br" alt="Top Langs" />
 
-![Streak](https://streak-stats.demolab.com?user=Nickolas-Pedroso&theme=radical&hide_border=false&border_radius=10&locale=pt_BR)
+  <img src="https://streak-stats.demolab.com?user=Nickolas-Pedroso&theme=radical&hide_border=false&border_radius=10&locale=pt_BR" alt="Streak" />
 
 </div>
 
