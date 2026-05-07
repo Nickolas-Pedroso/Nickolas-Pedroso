@@ -18,7 +18,7 @@
 ##
 
 <div align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&theme=radical&hide_border=false&border_radius=10" alt="Linguagens mais usadas" />
+  <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&theme=radical&hide_border=false&border_radius=10" alt="Linguagens mais usadas" />
 </div>
 
 ##
