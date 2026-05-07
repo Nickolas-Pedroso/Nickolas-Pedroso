@@ -1,59 +1,88 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&vCenter=true&repeat=false&random=false&width=250&height=27&lines=Ol%C3%A1%2C+Eu+sou+o+Nickolas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=32&duration=500&color=78327D&vCenter=true&repeat=false&width=420&height=35&lines=Olá%2C+eu+sou+o+Nickolas)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=700&height=90&lines=-+%F0%9F%92%BB+Estudante+em+Desenvolvimento+de+Sistemas+na+Fatec+de+Cotia;-+%F0%9F%93%96+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
-  ##
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=28&duration=500&color=C151C9&vCenter=true&multiline=true&repeat=false&width=850&height=110&lines=-+📊+Entusiasta+em+Dados+e+Business+Intelligence;-+🐍+Python+%7C+SQL+%7C+Power+BI;-+⚡+Automações+e+Integração+de+Sistemas)](https://git.io/typing-svg)
+
+##
 
 <div align="center">
-  <a href="https://github.com/Nickolas-Pedroso">
+
 <picture align="center">
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&bg_color=000001&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&bg_color=000001&icon_color=78327D&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&bg_color=ffffff&icon_color=78327D&text_color=471E4A&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=en"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true" />
+
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&bg_color=000001&icon_color=78327D&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=15&include_all_commits=true&count_private=true&hide=contribs&locale=pt-br"/>
 </picture>
 
-<picture align="center" >
+<picture align="center">
   <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=140&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=en"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"
     media="(prefers-color-scheme: dark)"
   />
-  <source height="175em"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=140&bg_color=ffffff&text_color=7900ac&title_color=C151C9&border_color=620096&border_radius=25&locale=en"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=140" />
+
+  <img height="175em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&bg_color=000001&text_color=9370DB&title_color=C151C9&border_color=620096&border_radius=25&locale=pt-br"/>
 </picture>
 
 </div>
-  
-<div style="display: inline_block" align="center"><br>
-  <a href="https://pt.wikipedia.org/wiki/HTML"><img align="center" alt="Nick-HTML" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></a>
-  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets"><img align="center" alt="Nick-CSS" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
-  <a href="https://pt.wikipedia.org/wiki/JavaScript"><img align="center" alt="Nick-JS" height="35" width="35" src="https://th.bing.com/th/id/R.4cb2d3028fa2487ea50620239536e26e?rik=V1xpKI94DUKnfQ&pid=ImgRaw&r=0"></a>
-  <a href="https://getbootstrap.com/"><img align="center" alt="Nick-BOOT" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"></a>
-  <a href="https://pt.wikipedia.org/wiki/C_Sharp"><img align="center" alt="RHUAN-C#" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg"></a>   
-  <a href="https://www.python.org/"><img align="center" alt="Nick-PYTHON" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-  <a href="https://www.mysql.com/"><img align="center" alt="Nick_MYSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a> 
-  <a href="https://developer.android.com/studio?hl=pt-br"><img align="center" alt="Nick_ANDROID" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" /></a>
-  <a href="https://nodejs.org/en"><img align="center" alt="Nick-NODE" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" /></a>
-  <a href="https://www.mongodb.com/pt-br"><img align="center" alt="Nick_MONGO" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /></a>
-                    
+
+##
+
+<div align="center">
+
+### 📌 Tecnologias
+
+<img align="center" alt="Python" height="45" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="center" alt="MySQL" height="50" width="55"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+<img align="center" alt="C#" height="45" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+
+<img align="center" alt="NodeJS" height="45" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="center" alt="MongoDB" height="50" width="55"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+
 </div>
-  
-  ##
-  
-  <div align="center">
-     <a href="mailto:nickolaspedroso28@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
-     <a href = "https://br.linkedin.com/in/nickolas-pedroso-32180218a"><img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white></a>
-    <a href = "https://github.com/Nickolas-Pedroso"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white></a>
-    <a href = "https://www.tinkercad.com/users/eJcg4zgTQSY?type=circuits"><img src=https://img.shields.io/badge/Tinkercad-3e3636?style=for-the-badge&logo=tinkercad&logoColor=snow></a>
-  </div>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
 
+##
 
+<div align="center">
+
+### 📊 Áreas de Interesse
+
+💡 Análise de Dados  
+📈 Business Intelligence  
+⚡ Automação de Processos  
+🗄️ Banco de Dados SQL  
+🔗 Integração de Sistemas  
+
+</div>
+
+##
+
+<div align="center">
+
+### 🌐 Contato
+
+<a href="mailto:nickolaspedroso28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://br.linkedin.com/in/nickolas-pedroso-32180218a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/Nickolas-Pedroso">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
