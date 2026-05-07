@@ -17,16 +17,6 @@
 
 ##
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Nickolas-Pedroso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false&border_radius=10&locale=pt-br" alt="Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas-Pedroso&layout=compact&langs_count=8&theme=radical&hide_border=false&border_radius=10&locale=pt-br" alt="Top Langs" />
-
-  <img src="https://streak-stats.demolab.com?user=Nickolas-Pedroso&theme=radical&hide_border=false&border_radius=10&locale=pt_BR" alt="Streak" />
-
-</div>
-
 <p align="center">
   <img alt="Gráfico de atividade" src="https://github-readme-activity-graph.vercel.app/graph?username=Nickolas-Pedroso&bg_color=000000&color=C151C9&line=9370DB&point=78327D&area=true&hide_border=true" />
 </p>
