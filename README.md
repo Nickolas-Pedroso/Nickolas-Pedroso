@@ -1,4 +1,3 @@
-```md
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&vCenter=true&repeat=false&random=false&width=320&height=27&lines=Olá%2C+Eu+sou+o+Nickolas)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stint+Ultra+Condensed&size=30&duration=500&color=78327D&center=false&vCenter=true&multiline=true&repeat=false&random=false&width=850&height=90&lines=-+💻+Desenvolvimento+de+Sistemas+e+Automação;-+📊+Data+Analytics+%7C+BI+%7C+Python+%7C+SQL;-+📖+Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
@@ -42,6 +41,10 @@
 </picture>
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nickolas-Pedroso&bg_color=000000&color=C151C9&line=9370DB&point=78327D&area=true&hide_border=true"/>
+</p>
 
 ##
 
@@ -121,4 +124,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=78327D&height=120&section=footer"/>
-```
